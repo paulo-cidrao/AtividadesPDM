@@ -1,0 +1,15 @@
+.medico {
+  display: flex;
+  flex-direction: column;
+  background-color: azure;
+  padding: 16px;
+  border-radius: 16px;
+}
+.medico img {
+  width: 200px;
+  height: 300px;
+}
+
+.medico p {
+  align-self: center;
+}
